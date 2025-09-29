@@ -106,5 +106,5 @@ dopo aver scaricato il progetto e aver estratto il contenuto della cartella ci s
      .\OrderAnalyzer.exe 
 
 ---
-#consiglio
+# consiglio
 Si consiglia di eseguire lo script a schermo intero,in modo da avere una  visuale più pulita e ordinata
