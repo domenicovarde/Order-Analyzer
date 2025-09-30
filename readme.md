@@ -108,4 +108,4 @@ dopo aver scaricato il progetto e aver estratto il contenuto della cartella ci s
 ---
 # CONSIGLI E AVVERTENZE
 1) Si consiglia di eseguire lo script a schermo intero,in modo da avere una  visuale più pulita e ordinata
-2) il caso 2 che presede l'utillizzo del comando dotnet run risulta essere poco stabile,quindi nel caso il metedo 2 con dotnet run non funzionasse invito a provare con gli altri due metodi illustrati accesibili con qualsiasi computer
+2) il caso 2 che prevede l'utillizzo del comando dotnet run risulta essere poco stabile,quindi nel caso il metedo 2 con dotnet run non funzionasse invito a provare con gli altri due metodi illustrati accesibili con qualsiasi computer
